@@ -254,7 +254,7 @@ EMA = α \cdot new + (1-α) \cdot prev
 ---
 
 ##  Заключение
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/4f333398-2b17-48d6-9562-8b70468d7911" />
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/4f333398-2b17-48d6-9562-8b70468d7911" />  
 Qr-code. Видео-тестирование  
 
 Система RTLS ESP32 Wi-Fi демонстрирует, что даже при использовании недорогих микроконтроллеров можно построить устойчивую и наглядную систему внутреннего позиционирования, способную в реальном времени отслеживать перемещения объектов.
